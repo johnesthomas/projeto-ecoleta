@@ -6,7 +6,7 @@
 
 #### Foi proposto pela Rocketseat e o Mayk Brito, iniciarmos um projeto de coleta, na semana do meio ambiente.
 
-## Em apenas 5 dias criamos um site:
+## Em 5 dias criamos um site responsivo, para fins ecológicos e de incentivo para criatividade:
 
 ![Página Inicial](https://github.com/johnesthomas/projeto-ecoleta/blob/master/pagehome.jpg)
 
@@ -14,7 +14,7 @@
 
 ### E as ferramentas usadas no Backtend do projeto foram: <img src="https://github.com/johnesthomas/projeto-ecoleta/blob/master/SQLite370.png" alt="drawing" width="450" alt= "SQLITE3"/> <img src="https://github.com/johnesthomas/projeto-ecoleta/blob/master/nodejsatt.png" alt="drawing" width="350" alt= "SQLITE3"/>
 
-## Desenvolvemos outro caminhos para a página, não ficando em uma págica estática.
+## Desenvolvemos outros caminhos para a página, não ficando em uma págica estática.
 
 ### Como a página de cadastramento de um ponto de coleta:
 
@@ -28,17 +28,17 @@
 
 ![Confirmação do cadastro](https://github.com/johnesthomas/projeto-ecoleta/blob/master/createpointsucess.jpg)
 
-## A página retorna com um delay de 2 segundos para a páginca inicial
+## O site retorna com um delay de 2 segundos para a páginca inicial
 
 ## Assim podemos procurar os pontos de coleta por cidade:
 
 ![Área de busca de ponto de coleta](https://github.com/johnesthomas/projeto-ecoleta/blob/master/modalsearch.jpg)
 
-## Como exemplo fiz o cadastramento de empresas fictícas e pesquisei pela cidade do Recife:
+## Como exemplo fiz o cadastramento de empresas fictícas e pesquisei pela cidade Recife:
 
 ![2 pontos encontrados, Colectoria e RenovePE](https://github.com/johnesthomas/projeto-ecoleta/blob/master/poitresults.jpg)
 
-## O que aprendi sobre a parte social ?
+## O que aprendi sobre em geral ?
 
 ### Primeiramente gostaria de agradecer pela oportunidade e dedicação de todos os colaboradoes e a comunidade que sempre esteve presente no discord tirando as dúvidas dos colegas. Assim, já se introduzindo em um ambiente de trabalho em equipe.
 
