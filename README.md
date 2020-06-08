@@ -26,7 +26,7 @@
 
 ## A confirmação do cadastro:
 
-![Confirmação do cadastro](https://github.com/johnesthomas/projeto-ecoleta/blob/master/createpoint2.jpg)
+![Confirmação do cadastro](https://github.com/johnesthomas/projeto-ecoleta/blob/master/createpointsucess.jpg)
 
 ## A página retorna com um delay de 2 segundos para a páginca inicial
 
