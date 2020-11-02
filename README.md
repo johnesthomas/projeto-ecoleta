@@ -10,9 +10,9 @@
 
 ![Página Inicial](https://github.com/johnesthomas/projeto-ecoleta/blob/master/pagehome.jpg)
 
-### As ferramentas que foram usadas no Frontend do projeto foram: <img src="https://github.com/johnesthomas/projeto-ecoleta/blob/master/HTML%2C%20CSS%2C%20JS.png" alt="drawing" width="400" alt= "HTML, CSS, JAVASCRIPT"/>
+### As ferramentas que foram usadas no Front-end do projeto foram: <img src="https://github.com/johnesthomas/projeto-ecoleta/blob/master/HTML%2C%20CSS%2C%20JS.png" alt="drawing" width="400" alt= "HTML, CSS, JAVASCRIPT"/>
 
-### E as ferramentas usadas no Backtend do projeto foram: <img src="https://github.com/johnesthomas/projeto-ecoleta/blob/master/SQLite370.png" alt="drawing" width="450" alt= "SQLITE3"/> <img src="https://github.com/johnesthomas/projeto-ecoleta/blob/master/nodejsatt.png" alt="drawing" width="350" alt= "SQLITE3"/>
+### E as ferramentas usadas no Back-end do projeto foram: <img src="https://github.com/johnesthomas/projeto-ecoleta/blob/master/SQLite370.png" alt="drawing" width="450" alt= "SQLITE3"/> <img src="https://github.com/johnesthomas/projeto-ecoleta/blob/master/nodejsatt.png" alt="drawing" width="350" alt= "SQLITE3"/>
 
 ## Desenvolvemos outros caminhos para a página, não ficando em uma págica estática.
 
